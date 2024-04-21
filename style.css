@@ -262,7 +262,7 @@ button[type="submit"]:hover {
 
 
 body {
-    background-image: url(/photos/output1.png);
+    background-image: url(photos/output1.png);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
